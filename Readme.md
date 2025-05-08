@@ -177,7 +177,7 @@ The `/Infrastructure/Kubernetes` directory contains:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/CommuneDrop.git
+git clone https://github.com/smangukia/CommuneDrop.git
 cd CommuneDrop
 ```
 
